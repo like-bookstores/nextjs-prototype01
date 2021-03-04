@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@wordpress/data": "^4.26.7",
     "autoprefixer": "^10.2.3",
     "gray-matter": "^4.0.2",
     "js-base64": "^3.6.0",
